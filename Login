@@ -1,0 +1,5 @@
+read user name, password
+if user name && password valid
+accept login
+else 
+display invalid
