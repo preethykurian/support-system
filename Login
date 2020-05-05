@@ -3,3 +3,6 @@ if user name && password valid
 accept login
 else 
 display invalid
+enter staff name
+enter department 
+save details
